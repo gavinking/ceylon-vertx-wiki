@@ -11,7 +11,7 @@ module io.vertx.guides.wiki "1.0.0" {
     shared import io.vertx.ceylon.jdbc "3.4.2";
     shared import io.vertx.ceylon.sql "3.4.2";
     shared import io.vertx.ceylon.web "3.4.2";
-    import io.vertx.ceylon.auth.common "3.2.2";
+    import io.vertx.ceylon.auth.common "3.4.2";
     import maven:io.vertx:"vertx-web-templ-freemarker" "3.4.2";
     import ceylon.time "1.3.2";
     import ceylon.file "1.3.2";
