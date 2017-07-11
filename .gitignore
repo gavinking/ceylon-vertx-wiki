@@ -1,0 +1,9 @@
+modules/
+.idea/libraries/
+.idea/workspace.xml
+.vertx/
+db/
+file-uploads/
+*~
+.DS_Store
+io.vertx.guides.wiki-1.0.0.jar
